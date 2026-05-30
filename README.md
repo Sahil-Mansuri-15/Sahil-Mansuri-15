@@ -1,6 +1,6 @@
 # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Sahil Mansuri  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahilmansuri-dev/) 
 
-**Glad to see you here!**
+**Glad to see you here!**  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 
 I’m a Full Stack Developer specializing in the MERN stack with hands-on experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB.
 
@@ -8,17 +8,15 @@ Beyond writing code, I value clean architecture, performance optimization, and p
 
 **Talking about Personal Stuffs:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" style="margin-top: 400px;"/>
 
-- 🔭 **I'm currently working on:** Enter your project info here
-- 🌱 **I'm currently learning:** Enter your tech here
-- 👯 **I'm looking to collaborate on:** Enter your project name and info
-- 🤔 **I'm looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I'm currently working on something cool;** 
+- 🌱 **I'm currently learning python and system design;**
+- 👯 **I'm looking for open source collaboration;**
+- 💬 **Ask me about anything, I am happy to help;**
+- 📫 **How to reach me: sahilmansuri1552005@gmail.com**
   
+  <br>
   <br>
   
 
