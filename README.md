@@ -16,7 +16,7 @@ Beyond writing code, I value clean architecture, performance optimization, and p
 - 👯 **I'm looking for open source collaboration;**
 - 💬 **Ask me about anything, I am happy to help;**
 - 📫 **How to reach me: sahilmansuri1552005@gmail.com**
-- <img src="https://cdn-icons-png.flaticon.com/512/909/909212.png" width="21" />&nbsp;&nbsp; [Resume](https://github.com/Sahil-Mansuri-15/Sahil-Mansuri-15/raw/main/Sahil_Mansuri_Resume.pdf)
+- <img src="https://cdn-icons-png.flaticon.com/512/909/909212.png" width="21" />&nbsp;&nbsp; [Resume](https://github.com/Sahil-Mansuri-15/Sahil-Mansuri-15/raw/main/Sahil_Mansuri_Resume_privacy.pdf)
   
   <br>
   <br>
