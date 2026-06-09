@@ -12,7 +12,7 @@ Beyond writing code, I value clean architecture, performance optimization, and p
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" style="margin-top: 400px;"/>
 
 - 🔭 **I'm currently working on something cool;** 
-- 🌱 **I'm currently learning python and system design;**
+- 🌱 **I'm currently learning Java and system design;**
 - 👯 **I'm looking for open source collaboration;**
 - 💬 **Ask me about anything, I am happy to help;**
 - 📫 **How to reach me: sahilmansuri1552005@gmail.com**
@@ -51,16 +51,19 @@ Beyond writing code, I value clean architecture, performance optimization, and p
 </p>
 
 <!-- Follow -->
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://private-user-images.githubusercontent.com/225169841/489908606-79cb265a-94a9-4455-9ea8-56ea5fe249ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzExNDY5OTgsIm5iZiI6MTc3MTE0NjY5OCwicGF0aCI6Ii8yMjUxNjk4NDEvNDg5OTA4NjA2LTc5Y2IyNjVhLTk0YTktNDQ1NS05ZWE4LTU2ZWE1ZmUyNDllZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIxNVQwOTExMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YmIyYWRjZTc2NmFmNTA1YzdlYjAxZTI0ZDVjNWU5YWMzZTFhZjE0ODk1ZTA2OGI2ZjFmNjZmNGUwNTQ3NzVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.er3S6aFR4VtE8bAP3iXHM-TKfSv9jGEC3cIBvjar6ak">
-<img src="https://camo.githubusercontent.com/37883583d7fd5c3be410991d925b6e8b1a095b1244ebeed0ead2838f944e947d/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4a616371756172642b31322673697a653d34302670617573653d3130303026636f6c6f723d4637354330332663656e7465723d74727565267643656e7465723d747275652677696474683d373030266865696768743d3630266c696e65733d446f6e27742b466f726765742b746f2b466f6c6c6f7721" alt="Follow 🄂ʏᴇᴅ 🄰ʙᴅᴜʟ 🄰ᴍᴀ🄝 ✧" data-canonical-src="(https://github.com/P-r-e-m-i-u-m)?font=Jacquard+12&amp;size=40&amp;pause=1000&amp;color=F75C03&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Don't+Forget+to+Follow!" style="max-width: 100%;" rtrvr-ls="3~hs,4~hs,5~hs,6~hs,8~hs,9~hs,31~hs,32~hs" rtrvr-ro="50">
+
+<img width="100%" height="180" alt="68747470733a2f2f692e70696e696d672e636f6d2f31323030782f39382f38362f30362f39383836303661363037313436376130386235386534616231353562653664312e6a7067" src="https://github.com/user-attachments/assets/331f3e88-708a-493c-9511-54704752a5ff" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Don't Forget to Follow!" />
+</p>
 
 
 
 
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 
 <h3 align="center">⬇️ Check out my awesome projects ⬇️</h3>
+
 
 
 
