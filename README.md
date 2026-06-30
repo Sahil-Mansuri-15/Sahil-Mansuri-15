@@ -60,9 +60,17 @@ Beyond writing code, I value clean architecture, performance optimization, and p
 
 
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Mansuri-15&style=flat-square" alt="Profile views" />
+</p>
 
 <h3 align="center">⬇️ Check out my awesome projects ⬇️</h3>
+
+
+
+
 
 
 
