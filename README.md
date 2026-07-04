@@ -1,4 +1,4 @@
-# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Sahil Mansuri  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmansuri-dev/) 
+# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Sahil Mansuri  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmansuri-dev/)   <img src="https://komarev.com/ghpvc/?username=Sahil-Mansuri-15&label=Profile+Views&color=000000&style=plastic" alt="profile-views" />
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <br> 
 **<h2>Glad to see you here!**  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
@@ -53,8 +53,9 @@ Beyond writing code, I value clean architecture, performance optimization, and p
 <!-- Follow -->
 
 <img width="100%" height="180" alt="68747470733a2f2f692e70696e696d672e636f6d2f31323030782f39382f38362f30362f39383836303661363037313436376130386235386534616231353562653664312e6a7067" src="https://github.com/user-attachments/assets/331f3e88-708a-493c-9511-54704752a5ff" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Don't Forget to Follow!" />
+  <img src="https://raw.githubusercontent.com/Sahil-Mansuri-15/Sahil-Mansuri-15/main/dont_forget_to_follow.svg" width="700">
 </p>
 
 
@@ -62,9 +63,7 @@ Beyond writing code, I value clean architecture, performance optimization, and p
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahil-Mansuri-15&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 <h3 align="center">⬇️ Check out my awesome projects ⬇️</h3>
 
